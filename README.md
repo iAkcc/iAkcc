@@ -13,7 +13,7 @@
 
 <br>
 
-## 🛠️ Lenguajes que manejo  :
+## 🛠️ Lenguajes que manejo actualmente :
 
 <br>
 
@@ -27,7 +27,7 @@
 
 <br>
 
-## GitHub Stats 📈 :
+## Estadísticas de GitHub 📈 :
 
 <br>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-## GitHub Thropies 🏆 :
+## Trofeos de GitHub 🏆 :
 
 <br>
 
