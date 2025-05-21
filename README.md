@@ -9,7 +9,7 @@
 ## About Me :
 
 - 🏢 Actualmente me dedico a la programación y configuracion de servidores en minecraft
-- 🌐 Puedes obtener mas información sobre mi en: https://axres.owleaf.studio/
+- 🌐 Puedes visitar mi pagina web: https://axres.owleaf.studio/
 
 <br>
 
